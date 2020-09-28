@@ -10,7 +10,7 @@ This repository is created to maintain the review materials for the courses in t
 
 ### **:bookmark_tabs:Contents**
 ---
-#### Block 1 (September 2020)
+### Block 1 (September 2020)
 
 | Courses                        	| Review Material 	|
 |--------------------------------	|-----------------	|
@@ -19,7 +19,7 @@ This repository is created to maintain the review materials for the courses in t
 | DSCI523 R                      	|                 	|
 | DSCI551 Statistics             	|                 	|
 
-#### Block 2 (October 2020)
+### Block 2 (October 2020)
 
 | Courses                                           | Review Material   |
 |-------------------------------------------------  |-----------------  |
