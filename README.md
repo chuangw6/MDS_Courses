@@ -4,11 +4,11 @@
 ---
 This repository is created to maintain the review materials for the courses in the field of data science.
 
-### **:running:Author Intro**
+### **:running:Author**
 ---
 [Chuang Wang](https://www.linkedin.com/in/chuangw/), a postgraduate student from [the 5th cohort](https://masterdatascience.ubc.ca/student-success-stories/welcome-virtually-mds-class-2021) of [Master of Data Science (MDS)](https://masterdatascience.ubc.ca/) program at [the University of British Columbia (UBC)](https://www.ubc.ca/).
 
-### **:bookmark_tabs:Contents**
+### **:bookmark_tabs:Table of Contents**
 ---
 ### Block 1 (September 2020)
 
