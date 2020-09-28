@@ -14,7 +14,7 @@ This repository is created to maintain the review materials for the courses in t
 
 | Courses                        	| Review Material 	|
 |--------------------------------	|-----------------	|
-| DSCI511 Python                 	| <li>[numpy review](Block1/DSCI511_Python/numpy_panda/numpy_review.ipynb)</li>  <li>[panda review](Block1/DSCI511_Python/numpy_panda/panda_review.ipynb)</li>     	|
+| DSCI511 Python                 	| <li>[numpy review](Block1/DSCI511_Python/numpy_panda/numpy_review.ipynb)</li>  <li>[pandas review](Block1/DSCI511_Python/numpy_panda/pandas_review.ipynb)</li>     	|
 | DSCI521 Data Science Platforms 	|                 	|
 | DSCI523 R                      	|                 	|
 | DSCI551 Statistics             	|                 	|
