@@ -1,8 +1,10 @@
-# Data Science Courses **Review Repo**
+# DSCI 512 Algorithms and Data Structures
 
 ### **:point_right:Purpose**
 ---
-This repository is created to maintain the review materials for the courses in the field of data science.
+This course about how to choose and use appropriate algorithms and data structures to help solve data science problems. Key concepts such as algorithmic complexity and recursion.
+
+
 
 ### **:running:Author Intro**
 ---
@@ -10,23 +12,11 @@ This repository is created to maintain the review materials for the courses in t
 
 ### **:bookmark_tabs:Contents**
 ---
-#### Block 1 (September 2020)
+| Quizzes | Learning Goals 	|
+|--------	|----------------	|
+| Quiz 1 	|   <li>big-O Notation</li>  <li>time/space complexity</li> <li>Search/sort algorithms & hashing</li> <li>recursive algorithms & data structure</li>  |
+| Quiz 2 	|  <li>Graphs, graph searches</li> <li>Adjacency matrices, sparse matrices, map/reduce</li> <li>Discrete optimization</li> <li>Dynamic programming, Speeding up Python code</li>  |
 
-| Courses                        	| Review Material 	|
-|--------------------------------	|-----------------	|
-| DSCI511 Python                 	| <li>[Quiz 2](https://ubc-dsci.github.io/introduction-to-datascience/)</li>       	|
-| DSCI521 Data Science Platforms 	|                 	|
-| DSCI523 R                      	|                 	|
-| DSCI551 Statistics             	|                 	|
-
-#### Block 2 (October 2020)
-
-| Courses                                           | Review Material   |
-|-------------------------------------------------  |-----------------  |
-| DSCI512 Algorithms and Data Structure             |                   |
-| DSCI531 Data Visualization I                      |                   |
-| DSCI552 Statistical Inference and Computation I   |                   |
-| DSCI571 Supervised Learning I                     |                   |
 
 ### **:file_folder:Resources**
 ---
