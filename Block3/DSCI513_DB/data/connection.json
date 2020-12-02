@@ -1,0 +1,7 @@
+{
+  "host": "dsci513-nd.cav7xnmmiw5l.us-east-1.rds.amazonaws.com",
+  "port": 5432,
+  "user": "student",
+  "password": "studentPassword",
+  "dbname": "postgres"
+}
