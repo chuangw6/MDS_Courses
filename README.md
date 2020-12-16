@@ -10,34 +10,21 @@ This repository is created to maintain the review materials for the courses in t
 
 ### **:bookmark_tabs:Table of Contents**
 ---
-### Block 1 (September 2020)
 
-| Courses                        	| Review Material 	|
-|--------------------------------	|-----------------	|
-| DSCI511 Python                 	| <li>[Python Tutorial](Block1/DSCI511_Python/Python_Tutorial.ipynb)</li> <li>[Python Cheatsheet](Block1/DSCI511_Python/python_cheatsheet.ipynb)</li> <li>[numpy review](Block1/DSCI511_Python/numpy_pandas/numpy_review.ipynb)</li>  <li>[pandas review](Block1/DSCI511_Python/numpy_pandas/pandas_review.ipynb)</li>     	|
-| DSCI521 Data Science Platforms 	|       NA          	|
-| DSCI523 R                      	|       NA          	|
-| DSCI551 Statistics             	|       NA          	|
-
-### Block 2 (October 2020)
-
-| Courses                                         | Review Material                                                                                                                                                                                                                                                                                          |
-| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| DSCI512 Algorithms and Data Structure           | NA                                                                                                                                                                                                                                                                                                       |
-| DSCI531 Data Visualization I                    | <li>[quiz 1-1](/Block2/DSCI531_Viz1/quiz_review/quiz1_1.ipynb)</li>  <li>[quiz 1-2](/Block2/DSCI531_Viz1/quiz_review/quiz1_2.ipynb)</li>                                                                                                                                                                     |
-| DSCI552 Statistical Inference and Computation I | <li>[quiz 1-1](/Block2/DSCI552_Stat_Infer/q1_1.ipynb)</li>    <li>[quiz 1-2](/Block2/DSCI552_Stat_Infer/q1_2.ipynb)</li>  <li>[quiz 1-3](/Block2/DSCI552_Stat_Infer/q1_3.ipynb)</li><li>[quiz 2-1](/Block2/DSCI552_Stat_Infer/q2_1.ipynb)</li><li>[quiz 2-2](/Block2/DSCI552_Stat_Infer/q2_2.ipynb)</li> |
-| DSCI571 Supervised Learning I                   | <li>[quiz 1](/Block2/DSCI571_Sup_Learn/quiz1.ipynb)</li> <li>[quiz 2](/Block2/DSCI571_Sup_Learn/q2.ipynb)</li>                                                                                                                                                                                           |
-
-
-
-### Block 3 (November 2020)
-
-| Courses                               | Review Material |
-| ------------------------------------- | --------------- |
-| DSCI 513 Databases and Data Retrieval |                 |
-| DSCI 522 Data Science Workﬂows        | NA              |
-| DSCI 561 Regression I                 |                 |
-| DSCI 573 Feature and Model Selec9on   |                 |
+| Courses                        	| Quiz 1 	| Quiz 2|
+|--------------------------------	|-----------------	|-----	|
+| DSCI511 Python                 	| <li>[Python Tutorial](Block1/DSCI511_Python/Python_Tutorial.ipynb)</li> <li>[Python Cheatsheet](Block1/DSCI511_Python/python_cheatsheet.ipynb)</li>      	| <li>[numpy review](Block1/DSCI511_Python/numpy_pandas/numpy_review.ipynb)</li>  <li>[pandas review](Block1/DSCI511_Python/numpy_pandas/pandas_review.ipynb)</li>|
+| DSCI521 Data Science Platforms 	|       NA |NA |
+| DSCI523 R                      	|       NA |NA |
+| DSCI551 Statistics             	|       NA |NA |
+| DSCI512 Algorithms and Data Structure  | NA  |NA |
+| DSCI531 Data Visualization I  | <li>[quiz 1-1](/Block2/DSCI531_Viz1/quiz_review/quiz1_1.ipynb)</li> <li>[quiz 1-2](/Block2/DSCI531_Viz1/quiz_review/quiz1_2.ipynb)</li> | |
+| DSCI552 Statistical Inference and Computation I | <li>[quiz 1-1](/Block2/DSCI552_Stat_Infer/q1_1.ipynb)</li>    <li>[quiz 1-2](/Block2/DSCI552_Stat_Infer/q1_2.ipynb)</li>  <li>[quiz 1-3](/Block2/DSCI552_Stat_Infer/q1_3.ipynb)</li> |<li>[quiz 2-1](/Block2/DSCI552_Stat_Infer/q2_1.ipynb)</li><li>[quiz 2-2](/Block2/DSCI552_Stat_Infer/q2_2.ipynb)</li>|
+| DSCI571 Supervised Learning I  | <li>[quiz 1](/Block2/DSCI571_Sup_Learn/quiz1.ipynb)</li>  |<li>[quiz 2](/Block2/DSCI571_Sup_Learn/q2.ipynb)</li>|
+| DSCI 513 Databases and Data Retrieval | <li>[quiz 1](/Block3/DSCI513_DB/quiz1.ipynb)</li>|<li>[quiz 2](/Block3/DSCI513_DB/quiz2.ipynb)|
+| DSCI 522 Data Science Workﬂows        | | |
+| DSCI 561 Regression I                 | <li>[quiz 1](/Block3/DSCI561_Regr1/quiz1.ipynb)</li>|<li>[quiz 2](/Block3/DSCI561_Regr1/quiz2.ipynb)</li>|
+| DSCI 573 Feature and Model Selec9on   | <li>[quiz 1](/Block3/DSCI573_Feat/quiz1.ipynb)</li>|<li>[quiz 2](/Block3/DSCI573_Feat/quiz2.ipynb)</li>|
 
 ### **:file_folder:Resources**
 ---
